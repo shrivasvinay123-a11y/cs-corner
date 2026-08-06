@@ -1,3 +1,2 @@
-a=5
-b=5
-print(a!=b) 
+a=int(input("write a number"))
+print(a)
