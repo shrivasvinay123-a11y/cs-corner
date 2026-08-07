@@ -1,2 +1,2 @@
-my all code is not run but i am a jenius
+my all code is not run without any resion
 
